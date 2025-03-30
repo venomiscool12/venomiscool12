@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @venomiscool12
-- 👀 I’m interested in creating websites, mini projects, and games
-- 🌱 I’m currently learning python, c++, html, javascript, and css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi Johannes B. Geolina
+i am a student learning on how to become a back-end developer or full-stack developer
+
+
+
 
 <!---
 venomiscool12/venomiscool12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
